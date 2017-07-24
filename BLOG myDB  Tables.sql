@@ -70,10 +70,7 @@ CREATE TABLE `blog-user` (
 --
 
 INSERT INTO `blog-user` (`uid`, `name`, `password`, `email`) VALUES
-(0, 'admin', '8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918', 'admin@admin.com'),
-(3, 'Keval Morabia', 'a0642195f2c727a0f45602cdd1458b13d9a486156a81ab46d5c5d686fd45c6e2', 'kmorabia@gmail.com'),
-(5, 'KM', 'a605f0880b05ab9e5b12a753dc38d2db0a64322d6031c38e4e5243adf2d0cf3b', 'kevalmorabia97@gmail.com'),
-(6, 'MORABIA KEVAL MAHENDRA', '929529d48022883529bc43c4f13f5a3861ef7bda6743f5064c81cda9c5ad5eac', 'f2015143@hyderabad.bits-pilani.ac.in');
+(0, 'admin', '8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918', 'admin@admin.com');
 
 --
 -- Indexes for dumped tables
